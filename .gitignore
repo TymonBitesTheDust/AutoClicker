@@ -1,0 +1,5 @@
+# Build output (attach the .exe to a GitHub release instead)
+*.exe
+*.pdb
+bin/
+obj/
